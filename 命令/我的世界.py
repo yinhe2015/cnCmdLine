@@ -6,7 +6,7 @@ import os
 
 版本 = '1.20.1'
 
-基础目录 = '/Users/yhm/Desktop/hmcl/minecraft'
+基础目录 = '/Users/yhm/Desktop/hmcl/mc'
 
 # 启动脚本路径, 请替换为实际路径, 用启动器的 "导出启动脚本功能" 导出
 启动脚本路径 = os.path.join(基础目录, 'versions', 版本, '启动.sh')
