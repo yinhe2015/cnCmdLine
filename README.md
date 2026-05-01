@@ -1,5 +1,7 @@
 # 中文命令行
 
+## 💡灵感来源 [这里](https://www.bilibili.com/video/BV16F9eBfEpV)
+
 ## 用法:
 1. 安装Python 3.8+
 2. 运行
